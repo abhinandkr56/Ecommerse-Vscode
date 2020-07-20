@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9MX4G7sA1Z6FfnXjes8g6BrT6/BFgakKutv12JyjsffrY1HoqGS6k7dIANXVck+izNO9idT2n5+Mqgn/Z70OEw==",
+  "success": true,
+  "projectFilePath": "G:\\vs\\Ecommerse\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\athira\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\athira\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
